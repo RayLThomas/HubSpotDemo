@@ -1,0 +1,24 @@
+[ {
+  "id" : "17ee72fb-30c3-30f3-3b84-b499b4589c54",
+  "name" : "image_field",
+  "display_width" : null,
+  "label" : "Image",
+  "help_text" : "This image will be repeated 100 times.",
+  "inline_help_text" : "Upload an image that will be repeated 100 times.",
+  "required" : true,
+  "locked" : false,
+  "responsive" : false,
+  "resizable" : true,
+  "show_loading" : false,
+  "type" : "image",
+  "default" : {
+    "size_type" : "exact",
+    "src" : "https://45929286.fs1.hubspotusercontent-na1.net/hubfs/45929286/pexels-andres-ayrton-6578385.jpg",
+    "alt" : "A person approaching their home office",
+    "loading" : "lazy",
+    "width" : 6000,
+    "height" : 3875,
+    "max_width" : 619,
+    "max_height" : 400
+  }
+} ]

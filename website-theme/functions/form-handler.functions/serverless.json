@@ -1,0 +1,15 @@
+{
+    "runtime": "nodejs18.x",
+    "version": "1.0",
+    "endpoints": {
+        "congratulation": {
+            "method": "GET",
+            "file": "congratulation.js"
+        },
+        "handle-submit": {
+            "method": "POST",
+            "file": "handle-submit.js"
+        }
+    },
+    "secrets": ["ipGeoLocationAPIKey", "HubSpotIntegrationKey"]
+ }

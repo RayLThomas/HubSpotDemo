@@ -1,0 +1,8 @@
+{
+  "global" : false,
+  "content_types" : [ "BLOG_LISTING", "BLOG_POST" ],
+  "host_template_types" : [ "PAGE", "BLOG_LISTING", "BLOG_POST" ],
+  "module_id" : 165064520631,
+  "label" : "Image Repeater",
+  "is_available_for_new_content" : true
+}
